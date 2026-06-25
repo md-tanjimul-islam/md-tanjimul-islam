@@ -10,7 +10,7 @@ Skills: SRING BOOT / REACT / JS / HTML / CSS
 - 📫 How to reach me: tanjimul2209@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-tanjimul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanjimul-islam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanjimul_islam_prohor/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-tanjimul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/tanjimul-islam/](https://www.linkedin.com/in/tanjimul-islam-b0730a267/))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tanjimul_islam_prohor/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=md-tanjimul-islam)](https://github.com/ryo-ma/github-profile-trophy)
 
